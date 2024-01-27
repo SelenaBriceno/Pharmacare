@@ -1,0 +1,248 @@
+{"skincare":[
+    {
+        "nombre":"cerave",
+        "img":"",
+        "info":"",
+        "limpiadores faciales":[
+            {
+             "nombre":"gel limpiador espumoso",
+             "img":"",
+             "info":"el limpiador facial espumoso de cerave contiene ceramidas, acido hialuronico y niacinamida para ayudar a restaurar la barrera natural de la piel, atraer la hidratacion y calmar la piel.",
+             "para piel":"normal a grasa"
+             },
+            {
+             "nombre":"limpiador hidratante",
+             "img":"",
+             "info":"el limpiador facial hidratante de cerave puede eliminar la suciedad, el maquillaje y otros residuos sin alterar la barrera natural de la piel ni despojarla de su humedad natural, es un suave limpiador con ceramidas y el acido hialuronico que restauran la barrera natural de la piel para ayudarla a retener la humedad y suministrar un flujo constante de nutrientes.No comedogenico, no irritante y sin perfume.",
+             "para piel":"normal a seca"
+             },
+            {
+             "nombre":"limpiadora crema-espuma hidratante",
+             "img":"",
+             "info":"el limpiador facial hidratante de crema a espuma de cerave comienza como una crema antes de transformarse en una suave espuma lo que proporciona una sensacion refrescante a la piel, y elimina eficazmente la suciedad y maquillaje de la piel sin dejarla tirante y seca. Esta formula suave y sin perfume contienes tres ceramidas esenciales, aminoacidos y acido hialuronico, que trabajan juntos para mantener la barrera natural de la piel y retener la humedad.",
+             "para piel":"normal a seca"
+             },
+            {
+             "nombre":"limpiador en aceite espumoso hidratante",
+             "img":"",
+             "info":"Un limpiador suave a base de acido salicilico puede ayudar a exfoliar y suavizar la piel aspera, a la vez elimina eficazmente la grasa y suciedad, barre las celulas muertas, sin dejar una sensacion de resequedad, ya que contiene tres ceramidas esenciales,acido hialurinico y niacinamida, ayuda a suavizar y alisar la piel, esta formula ni tiene perfume, no es comedogenica, esta enriquecida con vitamina D antioxidante y es adecuado para su uso en cara y cuerpo.",
+             "para piel":"normal a muy seca"
+             }
+           ],
+         "hidratantes faciales":[
+            {
+                "nombre":"locion hidratante de rostro con fps",
+                "img":"",
+                "info":"El hidratante facial dia de Cerave es una solucion multitarea para el cuidado de la piel por la mañana, ya que contiene ceramidas, acido hialuronico hidratante, niacinamida calmante, FPS 30 que brinda proteccion de los dañinos rayos UVA y UVB que se extiende facil y uniformemente sobre la piel y una formula no comedogenica que no obstruye los poros ni provoca brotes de acne, es ideal para todo tipo de piel.",
+                "para piel":"todo tipo de piel"
+            },
+            {
+                "nombre":"locion hidratante de rostro",
+                "img":"",
+                "info":"La locion hidratante de CeraVe proporciona un flujo constante de hidratacion ya que esta formulada con acido hialuronico, ceramidas y niacinamida en una formula libre de aceites y no comedogenica, que puede calmar la piel mientras restaura la barrera natural de la piel, una crema rica pero ligera.Adecuada para todo tipo de piel ya que no obstruye los poros ni provoca brotes de acne.",
+                "para piel":"todo tipo de piel"
+            },
+            {
+                "nombre":"crema hidratante",
+                "img":"",
+                "info":"Una crema hidratante con acido hialuronico y ceramidas puede ayuda a quienes tienen la piel seca o muy seca mejorando el aspecto y la sensacion de su piel. Esta crema esta desarrollada por dermatologos adecuada para la piel del rostro y cuerpo, una crema no grasa y de rapida absorcion con un flujo constante de ingredientes hidratantes durante todo el dia y la noche. No contiene perfume.",
+                "para piel":"seca a muy seca"
+            },
+            {
+                "nombre":"crema reparadora para el contorno de ojos",
+                "img":"",
+                "info":"Es una crema reparadora para conntorno de ojos que ayuda a suavizar e iluminar esta delicada piel para que luzca lo mejor posible tratando la hinchazon y las ojeras que son algunas de las preocupaciones mas comunes. Reconocida como segura para su uso alredeor del area de los ojos por oftalmologos. Adecuada para todo tipo de piel, es una crema no grasa, de rapida absorcion y sin perfume, tambien contiene ceramidas,acido hialuronico y niacinamida, ademas que libera ingredientes de manera rolongada para una hidratacion continua.",
+                "para piel":"todo tipo de piel"
+            }
+           ],
+           "hidratantes corporales":[
+            {
+                "nombre":"crema hidratante",
+                "img":"",
+                "info":"Una crema hidratante con acido hialuronico y ceramidas puede ayuda a quienes tienen la piel seca o muy seca mejorando el aspecto y la sensacion de su piel. Esta crema esta desarrollada por dermatologos adecuada para la piel del rostro y cuerpo, una crema no grasa y de rapida absorcion con un flujo constante de ingredientes hidratantes durante todo el dia y la noche. No contiene perfume.",
+                "para piel":"seca a muy seca"   
+            },
+            {
+                "nombre":"sa crema alisadora anti-rrugosidades",
+                "img":"",
+                "info":"La SA Crema Alisadora Anti-rugosidades con Urea 10% de CeraVe y acido salicilico, esta formulada para suavizar, alisar e hidratar de forma eficaz la piel seca, irregular y rugosa gracias al acido salicilico que ayuda a eliminar las celulas muertas de la piel para exfoliar suavemente, la urea que atrae, retiene la humedad y suaviza la piel, las tres ceramidas que ayudan a reparar y mantener la barrera de la piel, al acido hialuronico que ayuda a retener la humeda y a la niacinamida que actu como calmante para la piel . Ademas, esta crema para piel rugosa esta compuesta por una formula hipoalergenica y sin perfume que no compromete la tolerancia del producto. ",
+                "para piel":"seca"
+            },
+            {
+                "nombre":"crema reparadora de manos",
+                "img":"",
+                "info":"La exposicion a agentes irritantes, el lavado frecuente de manos y las actividades cotidianas causan daños a nuestras manos, por eso la Crema terapeutica para manos de CeraVe, puede proteger temporalmente su piel y aliviar la sequedad  ya que contiene ingredientes como la dimeticona, un protector de la piel, el acido hialuronico, la niacinamida y las ceramidas que ayudan a que la formula hidrate, calme y restaure la piel, generando unas manos suves, agradables al tacto y confortables. su formula es no grasa de rapida absorcion y sin perfume.",
+                "para piel":"todo tipo de piel"
+            }
+        ]
+        },
+        {
+            "nombre":"eucerin",
+            "img":"",
+            "info":"",
+            "limpiadores faciales":[
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                }
+            ],
+            "hidratantes faciales":[],
+            "limpiadores corporales":[],
+            "hidratantes corporales":[],
+            "bloqueadores":[]
+        },
+        {
+            "nombre":"la roche posay",
+            "img":"",
+            "info":"",
+            "limpiadores faciales":[
+                {
+                    "nombre":"effaclar gel microexfoliante",
+                    "img":"",
+                    "info":"Reduce la visibilidad de los puntos negros y controla el brillo eliminando el exceso de sebo , destapa los poros en profundidad Ayuda a reducir de forma progresiva y duradera las imperfecciones persistentes, incluidas las marcas, favorece la eliminación de células muertas sin irritación. Su formula contiene acido salicilico que destapa los poros, LHA que micro-exfolia suavemente y refina los poros y ZINC que purifica la piel",
+                    "para piel":"grasa"
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                }
+            ],
+            "hidratantes faciales":[
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                },
+                {
+                    "nombre":"CICAPLAST LABIOS",
+                    "img":"",
+                    "info":"Este bálsamo reparador calma, reconstruye y fortalece la epidermis de labios y zonas resecas, agrietadas e irritadas.Su formula contiene PANTENOL que ayuda a mejorar la hidratación de la piel aliviando la irritación y las sensaciones de malestar, y LÍPIDOS MP Ayuda a reconstruir la función de barrera de la piel. Su eficacia es inmediata: alivia desde la primera aplicación",
+                    "para piel":"seca"
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                }
+            ],
+            "limpiadores corporales":[
+                {
+                    "nombre":"lipikar gel lavant",
+                    "img":"",
+                    "info":"Es un gel espumoso suave, delicado y suavemente perfumado. Brindando una limpieza suave, aliviando, protegiendo y nutriendo la piel desde la ducha, ya que contiene niacinamida un activo que ayuda a calmar la picazón y manteca de karité que es otro ingrediente clave reconocido por su capacidad para restaurar la barrera de la piel",
+                    "para piel":"seca"
+                }
+            ],
+            "hidratantes corporales":[
+                {
+                    "nombre":"lipikar fluido",
+                    "img":"",
+                    "info":"Leche corporal hidratante calmante. Disminuye el aspecto granular de la piel y alisa las asperezas cutáneas del cuerpo, refuerza la barrera cutánea y calma las molestias de la piel hidrata tu piel, además de alisarla ya que esta formuLada con 5% UREA + FACTOR EXFOLIANTE  el activo suavizante combinado con un factor exfoliante potencia la eficacia y la ALATOÍNA es un activo calmante que ayuda a reducir la irritación debida a la sequedad de la piel.",
+                    "para piel":"seca"
+                },
+                {
+                    "nombre":"CICAPLAST MANOS",
+                    "img":"",
+                    "info":"Esta crema reparadora de manos calma, protege y restaura la barrera cutánea de las manos fatigadas tiene una textura ultra cómoda. Reduce rojeces y la resequedad dejando las manos nutridas, reparadas y flexibles. Contiene GLICERINA ayuda a crear una película protectora sobre la piel manteniendo sus niveles de hidratación y NIACINAMIDA que calma y repara la barrera protectora de la piel ",
+                    "para piel":"seca"
+                }
+            ],
+            "bloqueadores":[
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                }
+            ],
+            "serums":[
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                },
+                {
+                    "nombre":"",
+                    "img":"",
+                    "info":"",
+                    "para piel":""
+                }
+            ]
+        },
+        {
+            "nombre":"avene",
+            "img":"",
+            "limpiadores faciales":[],
+            "hidratantes faciales":[],
+            "hidratantes corporales":[],
+            "bloqueadores":[]
+        },
+        {
+            "nombre":"vichy",
+            "img":"",
+            "info":"",
+            "limpiadores faciales":[],
+            "hidratantes faciales":[],
+            "bloqueadores":[],
+            "serums":[]
+        },
+        {
+            "nombre":"isdin",
+            "img":"",
+            "info":"",
+            "limpiadores faciales":[],
+            "hidratantes faciales":[],
+            "limpiadores corporales":[],
+            "hidratantes corporales":[],
+            "bloqueadores":[] 
+        },
+        {
+            "nombre":"bioderma",
+            "img":"",
+            "info":"",
+            "limpiadores faciales":[],
+            "hidratantes faciales":[],
+            "limpiadores corporales":[],
+            "hidratantes corporales":[],
+            "bloqueadores":[],
+            "serums":[]
+
+        }
+]}
